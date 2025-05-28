@@ -23,9 +23,10 @@ main .left,main .right {
   border-radius: 0.7rem;
 }
 main .left{
-  background: #000;
+  background: #0e0e0e;
   position: relative;
 }
+
 main .left .review{
   position: absolute;
   bottom: 1rem;
@@ -43,7 +44,7 @@ main .left .review{
   width: 100%;
   margin: 0;
   border-radius: 0.7rem;
-  background-color: #181818;
+  background-color: #000000;
 }
 main .right {
   height: 100%;
